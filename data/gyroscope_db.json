@@ -1,0 +1,8162 @@
+[
+  {
+    "gyroscope_id": 1,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:03.051205"
+  },
+  {
+    "gyroscope_id": 2,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:03.093157"
+  },
+  {
+    "gyroscope_id": 3,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -1.11304,
+    "timestamp": "2017-01-19 16:19:03.134884"
+  },
+  {
+    "gyroscope_id": 4,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:03.176626"
+  },
+  {
+    "gyroscope_id": 5,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:03.218367"
+  },
+  {
+    "gyroscope_id": 6,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:03.260101"
+  },
+  {
+    "gyroscope_id": 7,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:03.301868"
+  },
+  {
+    "gyroscope_id": 8,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:03.343608"
+  },
+  {
+    "gyroscope_id": 9,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:03.385370"
+  },
+  {
+    "gyroscope_id": 10,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:03.427319"
+  },
+  {
+    "gyroscope_id": 11,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:03.469079"
+  },
+  {
+    "gyroscope_id": 12,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:03.510815"
+  },
+  {
+    "gyroscope_id": 13,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.08696,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:03.552559"
+  },
+  {
+    "gyroscope_id": 14,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:03.594297"
+  },
+  {
+    "gyroscope_id": 15,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.41739,
+    "timestamp": "2017-01-19 16:19:03.636033"
+  },
+  {
+    "gyroscope_id": 16,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:03.677775"
+  },
+  {
+    "gyroscope_id": 17,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:03.719519"
+  },
+  {
+    "gyroscope_id": 18,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:03.761251"
+  },
+  {
+    "gyroscope_id": 19,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:03.802976"
+  },
+  {
+    "gyroscope_id": 20,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:03.844718"
+  },
+  {
+    "gyroscope_id": 21,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:03.886468"
+  },
+  {
+    "gyroscope_id": 22,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.6,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:03.928429"
+  },
+  {
+    "gyroscope_id": 23,
+    "trip_id": 3,
+    "x_value": 0.83478,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:03.970248"
+  },
+  {
+    "gyroscope_id": 24,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:04.012001"
+  },
+  {
+    "gyroscope_id": 25,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:04.057808"
+  },
+  {
+    "gyroscope_id": 26,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:04.145028"
+  },
+  {
+    "gyroscope_id": 27,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:04.186824"
+  },
+  {
+    "gyroscope_id": 28,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:04.228591"
+  },
+  {
+    "gyroscope_id": 29,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.6,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:04.270336"
+  },
+  {
+    "gyroscope_id": 30,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:04.312079"
+  },
+  {
+    "gyroscope_id": 31,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:04.353817"
+  },
+  {
+    "gyroscope_id": 32,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:04.395627"
+  },
+  {
+    "gyroscope_id": 33,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.6,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:04.437378"
+  },
+  {
+    "gyroscope_id": 34,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:04.479131"
+  },
+  {
+    "gyroscope_id": 35,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:04.520887"
+  },
+  {
+    "gyroscope_id": 36,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:04.562630"
+  },
+  {
+    "gyroscope_id": 37,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:04.604377"
+  },
+  {
+    "gyroscope_id": 38,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.6,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:04.646158"
+  },
+  {
+    "gyroscope_id": 39,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:04.687930"
+  },
+  {
+    "gyroscope_id": 40,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.53043,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:04.729669"
+  },
+  {
+    "gyroscope_id": 41,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:04.771446"
+  },
+  {
+    "gyroscope_id": 42,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:04.813339"
+  },
+  {
+    "gyroscope_id": 43,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:04.855114"
+  },
+  {
+    "gyroscope_id": 44,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:04.896962"
+  },
+  {
+    "gyroscope_id": 45,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:04.938911"
+  },
+  {
+    "gyroscope_id": 46,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.6,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:04.980711"
+  },
+  {
+    "gyroscope_id": 47,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:05.022471"
+  },
+  {
+    "gyroscope_id": 48,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:05.064247"
+  },
+  {
+    "gyroscope_id": 49,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:05.106123"
+  },
+  {
+    "gyroscope_id": 50,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.41739,
+    "timestamp": "2017-01-19 16:19:05.148045"
+  },
+  {
+    "gyroscope_id": 51,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:05.208173"
+  },
+  {
+    "gyroscope_id": 52,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.6,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:05.249923"
+  },
+  {
+    "gyroscope_id": 53,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:05.291650"
+  },
+  {
+    "gyroscope_id": 54,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.6,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:05.333386"
+  },
+  {
+    "gyroscope_id": 55,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:05.375120"
+  },
+  {
+    "gyroscope_id": 56,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:05.416865"
+  },
+  {
+    "gyroscope_id": 57,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:05.458598"
+  },
+  {
+    "gyroscope_id": 58,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:05.500340"
+  },
+  {
+    "gyroscope_id": 59,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:05.542099"
+  },
+  {
+    "gyroscope_id": 60,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.53043,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:05.583875"
+  },
+  {
+    "gyroscope_id": 61,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.6,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:05.625617"
+  },
+  {
+    "gyroscope_id": 62,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:05.667605"
+  },
+  {
+    "gyroscope_id": 63,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:05.709356"
+  },
+  {
+    "gyroscope_id": 64,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.6,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:05.751213"
+  },
+  {
+    "gyroscope_id": 65,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.15652,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:05.793087"
+  },
+  {
+    "gyroscope_id": 66,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:05.834912"
+  },
+  {
+    "gyroscope_id": 67,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:05.876833"
+  },
+  {
+    "gyroscope_id": 68,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.15652,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:05.918606"
+  },
+  {
+    "gyroscope_id": 69,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:05.960343"
+  },
+  {
+    "gyroscope_id": 70,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:06.002088"
+  },
+  {
+    "gyroscope_id": 71,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:06.043855"
+  },
+  {
+    "gyroscope_id": 72,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:06.085657"
+  },
+  {
+    "gyroscope_id": 73,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:06.127619"
+  },
+  {
+    "gyroscope_id": 74,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:06.169370"
+  },
+  {
+    "gyroscope_id": 75,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:06.213963"
+  },
+  {
+    "gyroscope_id": 76,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:06.266207"
+  },
+  {
+    "gyroscope_id": 77,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:06.307960"
+  },
+  {
+    "gyroscope_id": 78,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:06.349701"
+  },
+  {
+    "gyroscope_id": 79,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:06.391461"
+  },
+  {
+    "gyroscope_id": 80,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:06.433238"
+  },
+  {
+    "gyroscope_id": 81,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.53043,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:06.474982"
+  },
+  {
+    "gyroscope_id": 82,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:06.516722"
+  },
+  {
+    "gyroscope_id": 83,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:06.558470"
+  },
+  {
+    "gyroscope_id": 84,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.46087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:06.600219"
+  },
+  {
+    "gyroscope_id": 85,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:06.642844"
+  },
+  {
+    "gyroscope_id": 86,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:06.684828"
+  },
+  {
+    "gyroscope_id": 87,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:06.726638"
+  },
+  {
+    "gyroscope_id": 88,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:06.768399"
+  },
+  {
+    "gyroscope_id": 89,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:06.810164"
+  },
+  {
+    "gyroscope_id": 90,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:06.851899"
+  },
+  {
+    "gyroscope_id": 91,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:06.893634"
+  },
+  {
+    "gyroscope_id": 92,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:06.935489"
+  },
+  {
+    "gyroscope_id": 93,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:06.977374"
+  },
+  {
+    "gyroscope_id": 94,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:07.019117"
+  },
+  {
+    "gyroscope_id": 95,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.08696,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:07.060864"
+  },
+  {
+    "gyroscope_id": 96,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:07.102602"
+  },
+  {
+    "gyroscope_id": 97,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:07.144346"
+  },
+  {
+    "gyroscope_id": 98,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:07.186217"
+  },
+  {
+    "gyroscope_id": 99,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:07.227956"
+  },
+  {
+    "gyroscope_id": 100,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:07.273546"
+  },
+  {
+    "gyroscope_id": 101,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:07.332346"
+  },
+  {
+    "gyroscope_id": 102,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:07.374095"
+  },
+  {
+    "gyroscope_id": 103,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.6,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:07.415908"
+  },
+  {
+    "gyroscope_id": 104,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:07.457681"
+  },
+  {
+    "gyroscope_id": 105,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:07.499395"
+  },
+  {
+    "gyroscope_id": 106,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.6,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:07.541515"
+  },
+  {
+    "gyroscope_id": 107,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:07.583286"
+  },
+  {
+    "gyroscope_id": 108,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:07.625030"
+  },
+  {
+    "gyroscope_id": 109,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:07.670629"
+  },
+  {
+    "gyroscope_id": 110,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:07.712506"
+  },
+  {
+    "gyroscope_id": 111,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:07.754332"
+  },
+  {
+    "gyroscope_id": 112,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:07.796283"
+  },
+  {
+    "gyroscope_id": 113,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:07.838053"
+  },
+  {
+    "gyroscope_id": 114,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:07.880006"
+  },
+  {
+    "gyroscope_id": 115,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:07.921781"
+  },
+  {
+    "gyroscope_id": 116,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:07.963541"
+  },
+  {
+    "gyroscope_id": 117,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:08.005301"
+  },
+  {
+    "gyroscope_id": 118,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:08.047087"
+  },
+  {
+    "gyroscope_id": 119,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:08.088851"
+  },
+  {
+    "gyroscope_id": 120,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:08.130592"
+  },
+  {
+    "gyroscope_id": 121,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:08.172536"
+  },
+  {
+    "gyroscope_id": 122,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:08.214284"
+  },
+  {
+    "gyroscope_id": 123,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:08.256040"
+  },
+  {
+    "gyroscope_id": 124,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.01739,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:08.297785"
+  },
+  {
+    "gyroscope_id": 125,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:08.339567"
+  },
+  {
+    "gyroscope_id": 126,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:08.393559"
+  },
+  {
+    "gyroscope_id": 127,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:08.435366"
+  },
+  {
+    "gyroscope_id": 128,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:08.477121"
+  },
+  {
+    "gyroscope_id": 129,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:08.518860"
+  },
+  {
+    "gyroscope_id": 130,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:08.560656"
+  },
+  {
+    "gyroscope_id": 131,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:08.602488"
+  },
+  {
+    "gyroscope_id": 132,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:08.644249"
+  },
+  {
+    "gyroscope_id": 133,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:08.686025"
+  },
+  {
+    "gyroscope_id": 134,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:08.727765"
+  },
+  {
+    "gyroscope_id": 135,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:08.769656"
+  },
+  {
+    "gyroscope_id": 136,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:08.811497"
+  },
+  {
+    "gyroscope_id": 137,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:08.853267"
+  },
+  {
+    "gyroscope_id": 138,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:08.895006"
+  },
+  {
+    "gyroscope_id": 139,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:08.936823"
+  },
+  {
+    "gyroscope_id": 140,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:08.978584"
+  },
+  {
+    "gyroscope_id": 141,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:09.020947"
+  },
+  {
+    "gyroscope_id": 142,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:09.062688"
+  },
+  {
+    "gyroscope_id": 143,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:09.104426"
+  },
+  {
+    "gyroscope_id": 144,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:09.146195"
+  },
+  {
+    "gyroscope_id": 145,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:09.187945"
+  },
+  {
+    "gyroscope_id": 146,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:09.229691"
+  },
+  {
+    "gyroscope_id": 147,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.87826,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:09.271444"
+  },
+  {
+    "gyroscope_id": 148,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:09.313182"
+  },
+  {
+    "gyroscope_id": 149,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:09.354924"
+  },
+  {
+    "gyroscope_id": 150,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:09.396997"
+  },
+  {
+    "gyroscope_id": 151,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:09.447802"
+  },
+  {
+    "gyroscope_id": 152,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.87826,
+    "z_value": -1.11304,
+    "timestamp": "2017-01-19 16:19:09.489565"
+  },
+  {
+    "gyroscope_id": 153,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:09.531312"
+  },
+  {
+    "gyroscope_id": 154,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:09.573085"
+  },
+  {
+    "gyroscope_id": 155,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:09.614895"
+  },
+  {
+    "gyroscope_id": 156,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:09.656634"
+  },
+  {
+    "gyroscope_id": 157,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:09.698375"
+  },
+  {
+    "gyroscope_id": 158,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:09.745034"
+  },
+  {
+    "gyroscope_id": 159,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:09.786862"
+  },
+  {
+    "gyroscope_id": 160,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:09.828643"
+  },
+  {
+    "gyroscope_id": 161,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -1.11304,
+    "timestamp": "2017-01-19 16:19:09.870399"
+  },
+  {
+    "gyroscope_id": 162,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -1.11304,
+    "timestamp": "2017-01-19 16:19:09.912178"
+  },
+  {
+    "gyroscope_id": 163,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:09.953951"
+  },
+  {
+    "gyroscope_id": 164,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:09.995718"
+  },
+  {
+    "gyroscope_id": 165,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:10.037467"
+  },
+  {
+    "gyroscope_id": 166,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:10.079200"
+  },
+  {
+    "gyroscope_id": 167,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:10.120930"
+  },
+  {
+    "gyroscope_id": 168,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:10.162670"
+  },
+  {
+    "gyroscope_id": 169,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:10.204415"
+  },
+  {
+    "gyroscope_id": 170,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:10.246155"
+  },
+  {
+    "gyroscope_id": 171,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:10.287897"
+  },
+  {
+    "gyroscope_id": 172,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:10.329639"
+  },
+  {
+    "gyroscope_id": 173,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:10.371372"
+  },
+  {
+    "gyroscope_id": 174,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:10.413144"
+  },
+  {
+    "gyroscope_id": 175,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:10.454932"
+  },
+  {
+    "gyroscope_id": 176,
+    "trip_id": 3,
+    "x_value": 0.76522,
+    "y_value": 1.73913,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:10.505117"
+  },
+  {
+    "gyroscope_id": 177,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:10.546978"
+  },
+  {
+    "gyroscope_id": 178,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:10.588899"
+  },
+  {
+    "gyroscope_id": 179,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:10.630679"
+  },
+  {
+    "gyroscope_id": 180,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 2.08696,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:10.672455"
+  },
+  {
+    "gyroscope_id": 181,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:10.714212"
+  },
+  {
+    "gyroscope_id": 182,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:10.756903"
+  },
+  {
+    "gyroscope_id": 183,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:10.798719"
+  },
+  {
+    "gyroscope_id": 184,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:10.840499"
+  },
+  {
+    "gyroscope_id": 185,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:10.882657"
+  },
+  {
+    "gyroscope_id": 186,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:10.924451"
+  },
+  {
+    "gyroscope_id": 187,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:10.966189"
+  },
+  {
+    "gyroscope_id": 188,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:11.007948"
+  },
+  {
+    "gyroscope_id": 189,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:11.049707"
+  },
+  {
+    "gyroscope_id": 190,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:11.091471"
+  },
+  {
+    "gyroscope_id": 191,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:11.133245"
+  },
+  {
+    "gyroscope_id": 192,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:11.175003"
+  },
+  {
+    "gyroscope_id": 193,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.29565,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:11.216768"
+  },
+  {
+    "gyroscope_id": 194,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:11.258525"
+  },
+  {
+    "gyroscope_id": 195,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.6,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:11.300266"
+  },
+  {
+    "gyroscope_id": 196,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:11.341990"
+  },
+  {
+    "gyroscope_id": 197,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:11.383727"
+  },
+  {
+    "gyroscope_id": 198,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:11.425524"
+  },
+  {
+    "gyroscope_id": 199,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:11.467279"
+  },
+  {
+    "gyroscope_id": 200,
+    "trip_id": 3,
+    "x_value": 1.6,
+    "y_value": 1.87826,
+    "z_value": -0.41739,
+    "timestamp": "2017-01-19 16:19:11.509101"
+  },
+  {
+    "gyroscope_id": 201,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:11.559690"
+  },
+  {
+    "gyroscope_id": 202,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.08696,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:11.601436"
+  },
+  {
+    "gyroscope_id": 203,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 2.08696,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:11.643175"
+  },
+  {
+    "gyroscope_id": 204,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:11.684924"
+  },
+  {
+    "gyroscope_id": 205,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:11.726704"
+  },
+  {
+    "gyroscope_id": 206,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:11.768510"
+  },
+  {
+    "gyroscope_id": 207,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:11.810360"
+  },
+  {
+    "gyroscope_id": 208,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:11.852112"
+  },
+  {
+    "gyroscope_id": 209,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:11.893877"
+  },
+  {
+    "gyroscope_id": 210,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:11.935666"
+  },
+  {
+    "gyroscope_id": 211,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:11.977430"
+  },
+  {
+    "gyroscope_id": 212,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.019203"
+  },
+  {
+    "gyroscope_id": 213,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:12.060938"
+  },
+  {
+    "gyroscope_id": 214,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:12.102665"
+  },
+  {
+    "gyroscope_id": 215,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.144425"
+  },
+  {
+    "gyroscope_id": 216,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:12.186189"
+  },
+  {
+    "gyroscope_id": 217,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.227936"
+  },
+  {
+    "gyroscope_id": 218,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.269685"
+  },
+  {
+    "gyroscope_id": 219,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.6,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.311425"
+  },
+  {
+    "gyroscope_id": 220,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:12.353174"
+  },
+  {
+    "gyroscope_id": 221,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:12.394933"
+  },
+  {
+    "gyroscope_id": 222,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.436717"
+  },
+  {
+    "gyroscope_id": 223,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.53043,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.478476"
+  },
+  {
+    "gyroscope_id": 224,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.520237"
+  },
+  {
+    "gyroscope_id": 225,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:12.562051"
+  },
+  {
+    "gyroscope_id": 226,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.619360"
+  },
+  {
+    "gyroscope_id": 227,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:12.661127"
+  },
+  {
+    "gyroscope_id": 228,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:12.702882"
+  },
+  {
+    "gyroscope_id": 229,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:12.744628"
+  },
+  {
+    "gyroscope_id": 230,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:12.786402"
+  },
+  {
+    "gyroscope_id": 231,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:12.828176"
+  },
+  {
+    "gyroscope_id": 232,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.869927"
+  },
+  {
+    "gyroscope_id": 233,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:12.911684"
+  },
+  {
+    "gyroscope_id": 234,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:12.953472"
+  },
+  {
+    "gyroscope_id": 235,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:12.995214"
+  },
+  {
+    "gyroscope_id": 236,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.53043,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:13.036970"
+  },
+  {
+    "gyroscope_id": 237,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:13.078723"
+  },
+  {
+    "gyroscope_id": 238,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -1.18261,
+    "timestamp": "2017-01-19 16:19:13.120460"
+  },
+  {
+    "gyroscope_id": 239,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:13.162195"
+  },
+  {
+    "gyroscope_id": 240,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:13.203936"
+  },
+  {
+    "gyroscope_id": 241,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:13.245671"
+  },
+  {
+    "gyroscope_id": 242,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:13.287408"
+  },
+  {
+    "gyroscope_id": 243,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.53043,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:13.329190"
+  },
+  {
+    "gyroscope_id": 244,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.53043,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:13.371050"
+  },
+  {
+    "gyroscope_id": 245,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:13.412792"
+  },
+  {
+    "gyroscope_id": 246,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.6,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:13.454557"
+  },
+  {
+    "gyroscope_id": 247,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:13.496298"
+  },
+  {
+    "gyroscope_id": 248,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:13.538035"
+  },
+  {
+    "gyroscope_id": 249,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:13.579773"
+  },
+  {
+    "gyroscope_id": 250,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:13.621624"
+  },
+  {
+    "gyroscope_id": 251,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:13.674900"
+  },
+  {
+    "gyroscope_id": 252,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.6,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:13.716714"
+  },
+  {
+    "gyroscope_id": 253,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:13.759070"
+  },
+  {
+    "gyroscope_id": 254,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:13.800905"
+  },
+  {
+    "gyroscope_id": 255,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:13.842664"
+  },
+  {
+    "gyroscope_id": 256,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:13.884430"
+  },
+  {
+    "gyroscope_id": 257,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.41739,
+    "timestamp": "2017-01-19 16:19:13.926220"
+  },
+  {
+    "gyroscope_id": 258,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:13.968002"
+  },
+  {
+    "gyroscope_id": 259,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:14.009879"
+  },
+  {
+    "gyroscope_id": 260,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:14.051650"
+  },
+  {
+    "gyroscope_id": 261,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:14.093408"
+  },
+  {
+    "gyroscope_id": 262,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:14.135160"
+  },
+  {
+    "gyroscope_id": 263,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.22609,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:14.176917"
+  },
+  {
+    "gyroscope_id": 264,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:14.218689"
+  },
+  {
+    "gyroscope_id": 265,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:14.260477"
+  },
+  {
+    "gyroscope_id": 266,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:14.302212"
+  },
+  {
+    "gyroscope_id": 267,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.08696,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:14.343955"
+  },
+  {
+    "gyroscope_id": 268,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:14.385706"
+  },
+  {
+    "gyroscope_id": 269,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:14.427507"
+  },
+  {
+    "gyroscope_id": 270,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:14.469462"
+  },
+  {
+    "gyroscope_id": 271,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:14.511214"
+  },
+  {
+    "gyroscope_id": 272,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:14.552959"
+  },
+  {
+    "gyroscope_id": 273,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:14.594742"
+  },
+  {
+    "gyroscope_id": 274,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.46087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:14.636507"
+  },
+  {
+    "gyroscope_id": 275,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:14.678538"
+  },
+  {
+    "gyroscope_id": 276,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:14.730590"
+  },
+  {
+    "gyroscope_id": 277,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:14.772345"
+  },
+  {
+    "gyroscope_id": 278,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:14.814100"
+  },
+  {
+    "gyroscope_id": 279,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:14.855843"
+  },
+  {
+    "gyroscope_id": 280,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:14.897818"
+  },
+  {
+    "gyroscope_id": 281,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:14.939600"
+  },
+  {
+    "gyroscope_id": 282,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.6,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:14.981341"
+  },
+  {
+    "gyroscope_id": 283,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:15.023083"
+  },
+  {
+    "gyroscope_id": 284,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -1.11304,
+    "timestamp": "2017-01-19 16:19:15.064826"
+  },
+  {
+    "gyroscope_id": 285,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:15.106567"
+  },
+  {
+    "gyroscope_id": 286,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:15.148312"
+  },
+  {
+    "gyroscope_id": 287,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:15.190046"
+  },
+  {
+    "gyroscope_id": 288,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:15.231797"
+  },
+  {
+    "gyroscope_id": 289,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:15.273562"
+  },
+  {
+    "gyroscope_id": 290,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:15.315301"
+  },
+  {
+    "gyroscope_id": 291,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:15.357041"
+  },
+  {
+    "gyroscope_id": 292,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:15.398792"
+  },
+  {
+    "gyroscope_id": 293,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:15.440566"
+  },
+  {
+    "gyroscope_id": 294,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:15.482299"
+  },
+  {
+    "gyroscope_id": 295,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:15.524035"
+  },
+  {
+    "gyroscope_id": 296,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:15.565768"
+  },
+  {
+    "gyroscope_id": 297,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:15.607505"
+  },
+  {
+    "gyroscope_id": 298,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.87826,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:15.649253"
+  },
+  {
+    "gyroscope_id": 299,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:15.690993"
+  },
+  {
+    "gyroscope_id": 300,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:15.734226"
+  },
+  {
+    "gyroscope_id": 301,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:15.792755"
+  },
+  {
+    "gyroscope_id": 302,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:15.834515"
+  },
+  {
+    "gyroscope_id": 303,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:15.876328"
+  },
+  {
+    "gyroscope_id": 304,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:15.918077"
+  },
+  {
+    "gyroscope_id": 305,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:15.959834"
+  },
+  {
+    "gyroscope_id": 306,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.53043,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:16.001633"
+  },
+  {
+    "gyroscope_id": 307,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:16.043382"
+  },
+  {
+    "gyroscope_id": 308,
+    "trip_id": 3,
+    "x_value": 1.53043,
+    "y_value": 1.87826,
+    "z_value": -1.11304,
+    "timestamp": "2017-01-19 16:19:16.085201"
+  },
+  {
+    "gyroscope_id": 309,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:16.127068"
+  },
+  {
+    "gyroscope_id": 310,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:16.168825"
+  },
+  {
+    "gyroscope_id": 311,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:16.210551"
+  },
+  {
+    "gyroscope_id": 312,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:16.252276"
+  },
+  {
+    "gyroscope_id": 313,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:16.294016"
+  },
+  {
+    "gyroscope_id": 314,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.08696,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:16.335756"
+  },
+  {
+    "gyroscope_id": 315,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:16.377500"
+  },
+  {
+    "gyroscope_id": 316,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:16.419242"
+  },
+  {
+    "gyroscope_id": 317,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:16.460996"
+  },
+  {
+    "gyroscope_id": 318,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:16.502741"
+  },
+  {
+    "gyroscope_id": 319,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:16.544485"
+  },
+  {
+    "gyroscope_id": 320,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:16.586251"
+  },
+  {
+    "gyroscope_id": 321,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:16.628003"
+  },
+  {
+    "gyroscope_id": 322,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:16.669750"
+  },
+  {
+    "gyroscope_id": 323,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:16.711468"
+  },
+  {
+    "gyroscope_id": 324,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:16.753964"
+  },
+  {
+    "gyroscope_id": 325,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:16.795860"
+  },
+  {
+    "gyroscope_id": 326,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:16.855606"
+  },
+  {
+    "gyroscope_id": 327,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:16.897498"
+  },
+  {
+    "gyroscope_id": 328,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:16.939298"
+  },
+  {
+    "gyroscope_id": 329,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:16.981050"
+  },
+  {
+    "gyroscope_id": 330,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:17.022798"
+  },
+  {
+    "gyroscope_id": 331,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:17.064557"
+  },
+  {
+    "gyroscope_id": 332,
+    "trip_id": 3,
+    "x_value": 1.6,
+    "y_value": 2.08696,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:17.106339"
+  },
+  {
+    "gyroscope_id": 333,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.6,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:17.148121"
+  },
+  {
+    "gyroscope_id": 334,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:17.189849"
+  },
+  {
+    "gyroscope_id": 335,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:17.231585"
+  },
+  {
+    "gyroscope_id": 336,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:17.273320"
+  },
+  {
+    "gyroscope_id": 337,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:17.315055"
+  },
+  {
+    "gyroscope_id": 338,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:17.356793"
+  },
+  {
+    "gyroscope_id": 339,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:17.398552"
+  },
+  {
+    "gyroscope_id": 340,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:17.440341"
+  },
+  {
+    "gyroscope_id": 341,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:17.482086"
+  },
+  {
+    "gyroscope_id": 342,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:17.523828"
+  },
+  {
+    "gyroscope_id": 343,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:17.565573"
+  },
+  {
+    "gyroscope_id": 344,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.87826,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:17.607309"
+  },
+  {
+    "gyroscope_id": 345,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:17.649052"
+  },
+  {
+    "gyroscope_id": 346,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:17.690814"
+  },
+  {
+    "gyroscope_id": 347,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:17.732553"
+  },
+  {
+    "gyroscope_id": 348,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:17.774305"
+  },
+  {
+    "gyroscope_id": 349,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:17.816060"
+  },
+  {
+    "gyroscope_id": 350,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:17.857882"
+  },
+  {
+    "gyroscope_id": 351,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.6,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:17.918348"
+  },
+  {
+    "gyroscope_id": 352,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:17.960248"
+  },
+  {
+    "gyroscope_id": 353,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:18.002140"
+  },
+  {
+    "gyroscope_id": 354,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -1.25217,
+    "timestamp": "2017-01-19 16:19:18.043914"
+  },
+  {
+    "gyroscope_id": 355,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.53043,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:18.085657"
+  },
+  {
+    "gyroscope_id": 356,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:18.127403"
+  },
+  {
+    "gyroscope_id": 357,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:18.169151"
+  },
+  {
+    "gyroscope_id": 358,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:18.210897"
+  },
+  {
+    "gyroscope_id": 359,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:18.252643"
+  },
+  {
+    "gyroscope_id": 360,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.6,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:18.294366"
+  },
+  {
+    "gyroscope_id": 361,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:18.336096"
+  },
+  {
+    "gyroscope_id": 362,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:18.377970"
+  },
+  {
+    "gyroscope_id": 363,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:18.419708"
+  },
+  {
+    "gyroscope_id": 364,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:18.461454"
+  },
+  {
+    "gyroscope_id": 365,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:18.503191"
+  },
+  {
+    "gyroscope_id": 366,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:18.544929"
+  },
+  {
+    "gyroscope_id": 367,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.73913,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:18.586677"
+  },
+  {
+    "gyroscope_id": 368,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:18.628415"
+  },
+  {
+    "gyroscope_id": 369,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:18.670169"
+  },
+  {
+    "gyroscope_id": 370,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:18.711920"
+  },
+  {
+    "gyroscope_id": 371,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:18.753828"
+  },
+  {
+    "gyroscope_id": 372,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:18.795659"
+  },
+  {
+    "gyroscope_id": 373,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:18.837413"
+  },
+  {
+    "gyroscope_id": 374,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:18.879135"
+  },
+  {
+    "gyroscope_id": 375,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:18.921006"
+  },
+  {
+    "gyroscope_id": 376,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:18.972553"
+  },
+  {
+    "gyroscope_id": 377,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:19.014412"
+  },
+  {
+    "gyroscope_id": 378,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:19.056301"
+  },
+  {
+    "gyroscope_id": 379,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:19.098072"
+  },
+  {
+    "gyroscope_id": 380,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:19.139819"
+  },
+  {
+    "gyroscope_id": 381,
+    "trip_id": 3,
+    "x_value": 0.83478,
+    "y_value": 1.66957,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:19.181585"
+  },
+  {
+    "gyroscope_id": 382,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:19.223352"
+  },
+  {
+    "gyroscope_id": 383,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:19.265114"
+  },
+  {
+    "gyroscope_id": 384,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:19.306870"
+  },
+  {
+    "gyroscope_id": 385,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:19.348619"
+  },
+  {
+    "gyroscope_id": 386,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.53043,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:19.390375"
+  },
+  {
+    "gyroscope_id": 387,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:19.432192"
+  },
+  {
+    "gyroscope_id": 388,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:19.473952"
+  },
+  {
+    "gyroscope_id": 389,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:19.515688"
+  },
+  {
+    "gyroscope_id": 390,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:19.557446"
+  },
+  {
+    "gyroscope_id": 391,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:19.599211"
+  },
+  {
+    "gyroscope_id": 392,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:19.640942"
+  },
+  {
+    "gyroscope_id": 393,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:19.682701"
+  },
+  {
+    "gyroscope_id": 394,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:19.724455"
+  },
+  {
+    "gyroscope_id": 395,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:19.766283"
+  },
+  {
+    "gyroscope_id": 396,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:19.808075"
+  },
+  {
+    "gyroscope_id": 397,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.6,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:19.850110"
+  },
+  {
+    "gyroscope_id": 398,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:19.892072"
+  },
+  {
+    "gyroscope_id": 399,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:19.933946"
+  },
+  {
+    "gyroscope_id": 400,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:19.975741"
+  },
+  {
+    "gyroscope_id": 401,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:20.044337"
+  },
+  {
+    "gyroscope_id": 402,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:20.086171"
+  },
+  {
+    "gyroscope_id": 403,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:20.127922"
+  },
+  {
+    "gyroscope_id": 404,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:20.169693"
+  },
+  {
+    "gyroscope_id": 405,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:20.211451"
+  },
+  {
+    "gyroscope_id": 406,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:20.253202"
+  },
+  {
+    "gyroscope_id": 407,
+    "trip_id": 3,
+    "x_value": 1.6,
+    "y_value": 1.6,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:20.294936"
+  },
+  {
+    "gyroscope_id": 408,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:20.336695"
+  },
+  {
+    "gyroscope_id": 409,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:20.378440"
+  },
+  {
+    "gyroscope_id": 410,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:20.420199"
+  },
+  {
+    "gyroscope_id": 411,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.87826,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:20.461979"
+  },
+  {
+    "gyroscope_id": 412,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:20.503727"
+  },
+  {
+    "gyroscope_id": 413,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:20.545554"
+  },
+  {
+    "gyroscope_id": 414,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:20.587298"
+  },
+  {
+    "gyroscope_id": 415,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:20.629052"
+  },
+  {
+    "gyroscope_id": 416,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:20.670823"
+  },
+  {
+    "gyroscope_id": 417,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:20.712596"
+  },
+  {
+    "gyroscope_id": 418,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:20.754660"
+  },
+  {
+    "gyroscope_id": 419,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:20.796583"
+  },
+  {
+    "gyroscope_id": 420,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:20.838319"
+  },
+  {
+    "gyroscope_id": 421,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:20.880076"
+  },
+  {
+    "gyroscope_id": 422,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:20.921961"
+  },
+  {
+    "gyroscope_id": 423,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:20.963730"
+  },
+  {
+    "gyroscope_id": 424,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.53043,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:21.005491"
+  },
+  {
+    "gyroscope_id": 425,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:21.047257"
+  },
+  {
+    "gyroscope_id": 426,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:21.098910"
+  },
+  {
+    "gyroscope_id": 427,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:21.140807"
+  },
+  {
+    "gyroscope_id": 428,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:21.182591"
+  },
+  {
+    "gyroscope_id": 429,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:21.224352"
+  },
+  {
+    "gyroscope_id": 430,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:21.266106"
+  },
+  {
+    "gyroscope_id": 431,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:21.307855"
+  },
+  {
+    "gyroscope_id": 432,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:21.349604"
+  },
+  {
+    "gyroscope_id": 433,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:21.391363"
+  },
+  {
+    "gyroscope_id": 434,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:21.433169"
+  },
+  {
+    "gyroscope_id": 435,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:21.474933"
+  },
+  {
+    "gyroscope_id": 436,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:21.516697"
+  },
+  {
+    "gyroscope_id": 437,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:21.558445"
+  },
+  {
+    "gyroscope_id": 438,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:21.600271"
+  },
+  {
+    "gyroscope_id": 439,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:21.642011"
+  },
+  {
+    "gyroscope_id": 440,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:21.683755"
+  },
+  {
+    "gyroscope_id": 441,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:21.729252"
+  },
+  {
+    "gyroscope_id": 442,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:21.771276"
+  },
+  {
+    "gyroscope_id": 443,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:21.813129"
+  },
+  {
+    "gyroscope_id": 444,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:21.854892"
+  },
+  {
+    "gyroscope_id": 445,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:21.896925"
+  },
+  {
+    "gyroscope_id": 446,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:21.938749"
+  },
+  {
+    "gyroscope_id": 447,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:21.980514"
+  },
+  {
+    "gyroscope_id": 448,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:22.022279"
+  },
+  {
+    "gyroscope_id": 449,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:22.064054"
+  },
+  {
+    "gyroscope_id": 450,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:22.105872"
+  },
+  {
+    "gyroscope_id": 451,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:22.188615"
+  },
+  {
+    "gyroscope_id": 452,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:22.230385"
+  },
+  {
+    "gyroscope_id": 453,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:22.272128"
+  },
+  {
+    "gyroscope_id": 454,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:22.313883"
+  },
+  {
+    "gyroscope_id": 455,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:22.355735"
+  },
+  {
+    "gyroscope_id": 456,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:22.397481"
+  },
+  {
+    "gyroscope_id": 457,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:22.439260"
+  },
+  {
+    "gyroscope_id": 458,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:22.481014"
+  },
+  {
+    "gyroscope_id": 459,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:22.522742"
+  },
+  {
+    "gyroscope_id": 460,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:22.564479"
+  },
+  {
+    "gyroscope_id": 461,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:22.606221"
+  },
+  {
+    "gyroscope_id": 462,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:22.647957"
+  },
+  {
+    "gyroscope_id": 463,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:22.689692"
+  },
+  {
+    "gyroscope_id": 464,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.15652,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:22.731435"
+  },
+  {
+    "gyroscope_id": 465,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:22.773194"
+  },
+  {
+    "gyroscope_id": 466,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:22.814956"
+  },
+  {
+    "gyroscope_id": 467,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:22.856747"
+  },
+  {
+    "gyroscope_id": 468,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:22.898501"
+  },
+  {
+    "gyroscope_id": 469,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.08696,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:22.940281"
+  },
+  {
+    "gyroscope_id": 470,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:22.982004"
+  },
+  {
+    "gyroscope_id": 471,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:23.023726"
+  },
+  {
+    "gyroscope_id": 472,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:23.065464"
+  },
+  {
+    "gyroscope_id": 473,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:23.107209"
+  },
+  {
+    "gyroscope_id": 474,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:23.148939"
+  },
+  {
+    "gyroscope_id": 475,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:23.192237"
+  },
+  {
+    "gyroscope_id": 476,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:23.254439"
+  },
+  {
+    "gyroscope_id": 477,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:23.296202"
+  },
+  {
+    "gyroscope_id": 478,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:23.337956"
+  },
+  {
+    "gyroscope_id": 479,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:23.379690"
+  },
+  {
+    "gyroscope_id": 480,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.6,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:23.421420"
+  },
+  {
+    "gyroscope_id": 481,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:23.463161"
+  },
+  {
+    "gyroscope_id": 482,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:23.504887"
+  },
+  {
+    "gyroscope_id": 483,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:23.546626"
+  },
+  {
+    "gyroscope_id": 484,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:23.588366"
+  },
+  {
+    "gyroscope_id": 485,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.08696,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:23.630137"
+  },
+  {
+    "gyroscope_id": 486,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:23.671918"
+  },
+  {
+    "gyroscope_id": 487,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:23.713671"
+  },
+  {
+    "gyroscope_id": 488,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:23.758224"
+  },
+  {
+    "gyroscope_id": 489,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:23.800098"
+  },
+  {
+    "gyroscope_id": 490,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:23.841997"
+  },
+  {
+    "gyroscope_id": 491,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:23.883744"
+  },
+  {
+    "gyroscope_id": 492,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:23.925670"
+  },
+  {
+    "gyroscope_id": 493,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:23.967425"
+  },
+  {
+    "gyroscope_id": 494,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:24.009179"
+  },
+  {
+    "gyroscope_id": 495,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:24.050934"
+  },
+  {
+    "gyroscope_id": 496,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:24.092693"
+  },
+  {
+    "gyroscope_id": 497,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:24.134456"
+  },
+  {
+    "gyroscope_id": 498,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.6,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:24.176224"
+  },
+  {
+    "gyroscope_id": 499,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:24.217972"
+  },
+  {
+    "gyroscope_id": 500,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:24.259827"
+  },
+  {
+    "gyroscope_id": 501,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:24.314780"
+  },
+  {
+    "gyroscope_id": 502,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:24.356534"
+  },
+  {
+    "gyroscope_id": 503,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:24.398298"
+  },
+  {
+    "gyroscope_id": 504,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:24.440111"
+  },
+  {
+    "gyroscope_id": 505,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:24.481890"
+  },
+  {
+    "gyroscope_id": 506,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:24.523652"
+  },
+  {
+    "gyroscope_id": 507,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:24.565428"
+  },
+  {
+    "gyroscope_id": 508,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:24.607202"
+  },
+  {
+    "gyroscope_id": 509,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:24.648985"
+  },
+  {
+    "gyroscope_id": 510,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:24.690750"
+  },
+  {
+    "gyroscope_id": 511,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:24.732501"
+  },
+  {
+    "gyroscope_id": 512,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:24.774288"
+  },
+  {
+    "gyroscope_id": 513,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:24.816115"
+  },
+  {
+    "gyroscope_id": 514,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:24.857882"
+  },
+  {
+    "gyroscope_id": 515,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:24.899776"
+  },
+  {
+    "gyroscope_id": 516,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:24.941560"
+  },
+  {
+    "gyroscope_id": 517,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:24.983320"
+  },
+  {
+    "gyroscope_id": 518,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:25.025087"
+  },
+  {
+    "gyroscope_id": 519,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:25.066975"
+  },
+  {
+    "gyroscope_id": 520,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:25.108728"
+  },
+  {
+    "gyroscope_id": 521,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:25.150553"
+  },
+  {
+    "gyroscope_id": 522,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:25.192306"
+  },
+  {
+    "gyroscope_id": 523,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:25.234050"
+  },
+  {
+    "gyroscope_id": 524,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:25.275798"
+  },
+  {
+    "gyroscope_id": 525,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:25.317756"
+  },
+  {
+    "gyroscope_id": 526,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:25.370147"
+  },
+  {
+    "gyroscope_id": 527,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:25.411906"
+  },
+  {
+    "gyroscope_id": 528,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:25.453664"
+  },
+  {
+    "gyroscope_id": 529,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:25.495532"
+  },
+  {
+    "gyroscope_id": 530,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:25.537291"
+  },
+  {
+    "gyroscope_id": 531,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:25.579062"
+  },
+  {
+    "gyroscope_id": 532,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:25.620804"
+  },
+  {
+    "gyroscope_id": 533,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:25.662554"
+  },
+  {
+    "gyroscope_id": 534,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:25.704297"
+  },
+  {
+    "gyroscope_id": 535,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:25.747825"
+  },
+  {
+    "gyroscope_id": 536,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:25.789691"
+  },
+  {
+    "gyroscope_id": 537,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:25.831445"
+  },
+  {
+    "gyroscope_id": 538,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:25.873191"
+  },
+  {
+    "gyroscope_id": 539,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:25.914943"
+  },
+  {
+    "gyroscope_id": 540,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:25.956702"
+  },
+  {
+    "gyroscope_id": 541,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:25.998435"
+  },
+  {
+    "gyroscope_id": 542,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:26.040181"
+  },
+  {
+    "gyroscope_id": 543,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:26.081946"
+  },
+  {
+    "gyroscope_id": 544,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:26.123701"
+  },
+  {
+    "gyroscope_id": 545,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:26.165432"
+  },
+  {
+    "gyroscope_id": 546,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:26.207154"
+  },
+  {
+    "gyroscope_id": 547,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:26.248879"
+  },
+  {
+    "gyroscope_id": 548,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.22609,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:26.290620"
+  },
+  {
+    "gyroscope_id": 549,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:26.332353"
+  },
+  {
+    "gyroscope_id": 550,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:26.374443"
+  },
+  {
+    "gyroscope_id": 551,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:26.431543"
+  },
+  {
+    "gyroscope_id": 552,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:26.473297"
+  },
+  {
+    "gyroscope_id": 553,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:26.515214"
+  },
+  {
+    "gyroscope_id": 554,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:26.557133"
+  },
+  {
+    "gyroscope_id": 555,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:26.598952"
+  },
+  {
+    "gyroscope_id": 556,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:26.640708"
+  },
+  {
+    "gyroscope_id": 557,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:26.682444"
+  },
+  {
+    "gyroscope_id": 558,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:26.724208"
+  },
+  {
+    "gyroscope_id": 559,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:26.765972"
+  },
+  {
+    "gyroscope_id": 560,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:26.807761"
+  },
+  {
+    "gyroscope_id": 561,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:26.849541"
+  },
+  {
+    "gyroscope_id": 562,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:26.891314"
+  },
+  {
+    "gyroscope_id": 563,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:26.933087"
+  },
+  {
+    "gyroscope_id": 564,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:26.974844"
+  },
+  {
+    "gyroscope_id": 565,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:27.016603"
+  },
+  {
+    "gyroscope_id": 566,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:27.058361"
+  },
+  {
+    "gyroscope_id": 567,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:27.100124"
+  },
+  {
+    "gyroscope_id": 568,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:27.141886"
+  },
+  {
+    "gyroscope_id": 569,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:27.183626"
+  },
+  {
+    "gyroscope_id": 570,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:27.225374"
+  },
+  {
+    "gyroscope_id": 571,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:27.267121"
+  },
+  {
+    "gyroscope_id": 572,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.53043,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:27.308877"
+  },
+  {
+    "gyroscope_id": 573,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:27.350635"
+  },
+  {
+    "gyroscope_id": 574,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:27.392745"
+  },
+  {
+    "gyroscope_id": 575,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:27.434674"
+  },
+  {
+    "gyroscope_id": 576,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:27.488745"
+  },
+  {
+    "gyroscope_id": 577,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:27.530488"
+  },
+  {
+    "gyroscope_id": 578,
+    "trip_id": 3,
+    "x_value": 1.53043,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:27.572279"
+  },
+  {
+    "gyroscope_id": 579,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:27.614022"
+  },
+  {
+    "gyroscope_id": 580,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:27.655771"
+  },
+  {
+    "gyroscope_id": 581,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:27.697502"
+  },
+  {
+    "gyroscope_id": 582,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.6,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:27.739258"
+  },
+  {
+    "gyroscope_id": 583,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:27.781052"
+  },
+  {
+    "gyroscope_id": 584,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.73913,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:27.822817"
+  },
+  {
+    "gyroscope_id": 585,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:27.864564"
+  },
+  {
+    "gyroscope_id": 586,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:27.906304"
+  },
+  {
+    "gyroscope_id": 587,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:27.948065"
+  },
+  {
+    "gyroscope_id": 588,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:27.989792"
+  },
+  {
+    "gyroscope_id": 589,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:28.031514"
+  },
+  {
+    "gyroscope_id": 590,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.22609,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:28.073395"
+  },
+  {
+    "gyroscope_id": 591,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:28.115136"
+  },
+  {
+    "gyroscope_id": 592,
+    "trip_id": 3,
+    "x_value": 1.53043,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:28.156872"
+  },
+  {
+    "gyroscope_id": 593,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.22609,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:28.198610"
+  },
+  {
+    "gyroscope_id": 594,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:28.240354"
+  },
+  {
+    "gyroscope_id": 595,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:28.282084"
+  },
+  {
+    "gyroscope_id": 596,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.6,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:28.323830"
+  },
+  {
+    "gyroscope_id": 597,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:28.365585"
+  },
+  {
+    "gyroscope_id": 598,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:28.407722"
+  },
+  {
+    "gyroscope_id": 599,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:28.449522"
+  },
+  {
+    "gyroscope_id": 600,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:28.491496"
+  },
+  {
+    "gyroscope_id": 601,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.87826,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:28.548929"
+  },
+  {
+    "gyroscope_id": 602,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:28.590665"
+  },
+  {
+    "gyroscope_id": 603,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:28.632407"
+  },
+  {
+    "gyroscope_id": 604,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:28.674150"
+  },
+  {
+    "gyroscope_id": 605,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:28.716004"
+  },
+  {
+    "gyroscope_id": 606,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:28.757941"
+  },
+  {
+    "gyroscope_id": 607,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:28.799783"
+  },
+  {
+    "gyroscope_id": 608,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:28.841572"
+  },
+  {
+    "gyroscope_id": 609,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:28.883341"
+  },
+  {
+    "gyroscope_id": 610,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:28.925146"
+  },
+  {
+    "gyroscope_id": 611,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:28.966898"
+  },
+  {
+    "gyroscope_id": 612,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:29.008650"
+  },
+  {
+    "gyroscope_id": 613,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:29.050423"
+  },
+  {
+    "gyroscope_id": 614,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:29.092176"
+  },
+  {
+    "gyroscope_id": 615,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:29.133937"
+  },
+  {
+    "gyroscope_id": 616,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:29.175693"
+  },
+  {
+    "gyroscope_id": 617,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:29.217434"
+  },
+  {
+    "gyroscope_id": 618,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:29.259174"
+  },
+  {
+    "gyroscope_id": 619,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:29.300929"
+  },
+  {
+    "gyroscope_id": 620,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:29.342694"
+  },
+  {
+    "gyroscope_id": 621,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:29.384460"
+  },
+  {
+    "gyroscope_id": 622,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:29.426252"
+  },
+  {
+    "gyroscope_id": 623,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:29.467993"
+  },
+  {
+    "gyroscope_id": 624,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:29.509738"
+  },
+  {
+    "gyroscope_id": 625,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.22609,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:29.551772"
+  },
+  {
+    "gyroscope_id": 626,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:29.608215"
+  },
+  {
+    "gyroscope_id": 627,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:29.649958"
+  },
+  {
+    "gyroscope_id": 628,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:29.691700"
+  },
+  {
+    "gyroscope_id": 629,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:29.733443"
+  },
+  {
+    "gyroscope_id": 630,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:29.775182"
+  },
+  {
+    "gyroscope_id": 631,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:29.816927"
+  },
+  {
+    "gyroscope_id": 632,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.15652,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:29.858670"
+  },
+  {
+    "gyroscope_id": 633,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:29.900430"
+  },
+  {
+    "gyroscope_id": 634,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:29.942250"
+  },
+  {
+    "gyroscope_id": 635,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:29.984022"
+  },
+  {
+    "gyroscope_id": 636,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:30.025786"
+  },
+  {
+    "gyroscope_id": 637,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:30.067533"
+  },
+  {
+    "gyroscope_id": 638,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:30.109276"
+  },
+  {
+    "gyroscope_id": 639,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:30.151016"
+  },
+  {
+    "gyroscope_id": 640,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:30.192748"
+  },
+  {
+    "gyroscope_id": 641,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:30.234486"
+  },
+  {
+    "gyroscope_id": 642,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:30.279750"
+  },
+  {
+    "gyroscope_id": 643,
+    "trip_id": 3,
+    "x_value": 1.53043,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:30.321615"
+  },
+  {
+    "gyroscope_id": 644,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:30.363364"
+  },
+  {
+    "gyroscope_id": 645,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:30.405136"
+  },
+  {
+    "gyroscope_id": 646,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:30.446922"
+  },
+  {
+    "gyroscope_id": 647,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:30.488690"
+  },
+  {
+    "gyroscope_id": 648,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:30.530436"
+  },
+  {
+    "gyroscope_id": 649,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:30.572180"
+  },
+  {
+    "gyroscope_id": 650,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:30.614042"
+  },
+  {
+    "gyroscope_id": 651,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:30.664915"
+  },
+  {
+    "gyroscope_id": 652,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:30.706797"
+  },
+  {
+    "gyroscope_id": 653,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:30.748987"
+  },
+  {
+    "gyroscope_id": 654,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:30.790816"
+  },
+  {
+    "gyroscope_id": 655,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:30.832577"
+  },
+  {
+    "gyroscope_id": 656,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:30.874298"
+  },
+  {
+    "gyroscope_id": 657,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:30.916044"
+  },
+  {
+    "gyroscope_id": 658,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:30.957896"
+  },
+  {
+    "gyroscope_id": 659,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:30.999635"
+  },
+  {
+    "gyroscope_id": 660,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:31.041377"
+  },
+  {
+    "gyroscope_id": 661,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:31.083132"
+  },
+  {
+    "gyroscope_id": 662,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:31.124872"
+  },
+  {
+    "gyroscope_id": 663,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:31.166985"
+  },
+  {
+    "gyroscope_id": 664,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:31.208823"
+  },
+  {
+    "gyroscope_id": 665,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:31.250579"
+  },
+  {
+    "gyroscope_id": 666,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:31.292321"
+  },
+  {
+    "gyroscope_id": 667,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:31.334062"
+  },
+  {
+    "gyroscope_id": 668,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:31.375806"
+  },
+  {
+    "gyroscope_id": 669,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:31.417567"
+  },
+  {
+    "gyroscope_id": 670,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:31.459335"
+  },
+  {
+    "gyroscope_id": 671,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:31.501075"
+  },
+  {
+    "gyroscope_id": 672,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:31.542814"
+  },
+  {
+    "gyroscope_id": 673,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:31.584551"
+  },
+  {
+    "gyroscope_id": 674,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:31.626288"
+  },
+  {
+    "gyroscope_id": 675,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:31.668572"
+  },
+  {
+    "gyroscope_id": 676,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:31.721237"
+  },
+  {
+    "gyroscope_id": 677,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:31.763161"
+  },
+  {
+    "gyroscope_id": 678,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -1.11304,
+    "timestamp": "2017-01-19 16:19:31.804992"
+  },
+  {
+    "gyroscope_id": 679,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:31.846734"
+  },
+  {
+    "gyroscope_id": 680,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:31.888535"
+  },
+  {
+    "gyroscope_id": 681,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:31.930287"
+  },
+  {
+    "gyroscope_id": 682,
+    "trip_id": 3,
+    "x_value": 0.83478,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:31.972130"
+  },
+  {
+    "gyroscope_id": 683,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:32.013914"
+  },
+  {
+    "gyroscope_id": 684,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:32.055792"
+  },
+  {
+    "gyroscope_id": 685,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:32.097523"
+  },
+  {
+    "gyroscope_id": 686,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:32.139250"
+  },
+  {
+    "gyroscope_id": 687,
+    "trip_id": 3,
+    "x_value": 1.53043,
+    "y_value": 2.01739,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:32.181099"
+  },
+  {
+    "gyroscope_id": 688,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:32.222854"
+  },
+  {
+    "gyroscope_id": 689,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:32.264597"
+  },
+  {
+    "gyroscope_id": 690,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:32.306367"
+  },
+  {
+    "gyroscope_id": 691,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:32.348126"
+  },
+  {
+    "gyroscope_id": 692,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:32.389927"
+  },
+  {
+    "gyroscope_id": 693,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:32.431704"
+  },
+  {
+    "gyroscope_id": 694,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.6,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:32.473463"
+  },
+  {
+    "gyroscope_id": 695,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:32.515223"
+  },
+  {
+    "gyroscope_id": 696,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:32.557013"
+  },
+  {
+    "gyroscope_id": 697,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:32.598740"
+  },
+  {
+    "gyroscope_id": 698,
+    "trip_id": 3,
+    "x_value": 1.6,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:32.640576"
+  },
+  {
+    "gyroscope_id": 699,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:32.682317"
+  },
+  {
+    "gyroscope_id": 700,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:32.725452"
+  },
+  {
+    "gyroscope_id": 701,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:32.780279"
+  },
+  {
+    "gyroscope_id": 702,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:32.822045"
+  },
+  {
+    "gyroscope_id": 703,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:32.863781"
+  },
+  {
+    "gyroscope_id": 704,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:32.905537"
+  },
+  {
+    "gyroscope_id": 705,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:32.947292"
+  },
+  {
+    "gyroscope_id": 706,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:32.989050"
+  },
+  {
+    "gyroscope_id": 707,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:33.030801"
+  },
+  {
+    "gyroscope_id": 708,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:33.072570"
+  },
+  {
+    "gyroscope_id": 709,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:33.114331"
+  },
+  {
+    "gyroscope_id": 710,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:33.156072"
+  },
+  {
+    "gyroscope_id": 711,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:33.197807"
+  },
+  {
+    "gyroscope_id": 712,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:33.239534"
+  },
+  {
+    "gyroscope_id": 713,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.08696,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:33.281701"
+  },
+  {
+    "gyroscope_id": 714,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:33.323524"
+  },
+  {
+    "gyroscope_id": 715,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:33.365277"
+  },
+  {
+    "gyroscope_id": 716,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:33.406995"
+  },
+  {
+    "gyroscope_id": 717,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:33.448753"
+  },
+  {
+    "gyroscope_id": 718,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:33.490498"
+  },
+  {
+    "gyroscope_id": 719,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:33.532244"
+  },
+  {
+    "gyroscope_id": 720,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:33.573982"
+  },
+  {
+    "gyroscope_id": 721,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:33.615724"
+  },
+  {
+    "gyroscope_id": 722,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:33.657463"
+  },
+  {
+    "gyroscope_id": 723,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:33.699201"
+  },
+  {
+    "gyroscope_id": 724,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:33.740936"
+  },
+  {
+    "gyroscope_id": 725,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:33.782843"
+  },
+  {
+    "gyroscope_id": 726,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:33.836847"
+  },
+  {
+    "gyroscope_id": 727,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:33.878708"
+  },
+  {
+    "gyroscope_id": 728,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:33.920502"
+  },
+  {
+    "gyroscope_id": 729,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:33.962295"
+  },
+  {
+    "gyroscope_id": 730,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:34.004067"
+  },
+  {
+    "gyroscope_id": 731,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:34.045913"
+  },
+  {
+    "gyroscope_id": 732,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:34.087785"
+  },
+  {
+    "gyroscope_id": 733,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:34.129564"
+  },
+  {
+    "gyroscope_id": 734,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:34.171327"
+  },
+  {
+    "gyroscope_id": 735,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:34.213091"
+  },
+  {
+    "gyroscope_id": 736,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:34.254841"
+  },
+  {
+    "gyroscope_id": 737,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:34.296668"
+  },
+  {
+    "gyroscope_id": 738,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:34.338550"
+  },
+  {
+    "gyroscope_id": 739,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:34.380323"
+  },
+  {
+    "gyroscope_id": 740,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:34.422079"
+  },
+  {
+    "gyroscope_id": 741,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:34.463829"
+  },
+  {
+    "gyroscope_id": 742,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.08696,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:34.505660"
+  },
+  {
+    "gyroscope_id": 743,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:34.547406"
+  },
+  {
+    "gyroscope_id": 744,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:34.589197"
+  },
+  {
+    "gyroscope_id": 745,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.6,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:34.630960"
+  },
+  {
+    "gyroscope_id": 746,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:34.672722"
+  },
+  {
+    "gyroscope_id": 747,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.87826,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:34.714492"
+  },
+  {
+    "gyroscope_id": 748,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:34.758644"
+  },
+  {
+    "gyroscope_id": 749,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:34.800505"
+  },
+  {
+    "gyroscope_id": 750,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:34.842277"
+  },
+  {
+    "gyroscope_id": 751,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:34.900457"
+  },
+  {
+    "gyroscope_id": 752,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.08696,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:34.942262"
+  },
+  {
+    "gyroscope_id": 753,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:34.984110"
+  },
+  {
+    "gyroscope_id": 754,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:35.025880"
+  },
+  {
+    "gyroscope_id": 755,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:35.067679"
+  },
+  {
+    "gyroscope_id": 756,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:35.109436"
+  },
+  {
+    "gyroscope_id": 757,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:35.151208"
+  },
+  {
+    "gyroscope_id": 758,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:35.192999"
+  },
+  {
+    "gyroscope_id": 759,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:35.234782"
+  },
+  {
+    "gyroscope_id": 760,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:35.279056"
+  },
+  {
+    "gyroscope_id": 761,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:35.320933"
+  },
+  {
+    "gyroscope_id": 762,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:35.362749"
+  },
+  {
+    "gyroscope_id": 763,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:35.404570"
+  },
+  {
+    "gyroscope_id": 764,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:35.446454"
+  },
+  {
+    "gyroscope_id": 765,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:35.488212"
+  },
+  {
+    "gyroscope_id": 766,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:35.529967"
+  },
+  {
+    "gyroscope_id": 767,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:35.571714"
+  },
+  {
+    "gyroscope_id": 768,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.15652,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:35.613475"
+  },
+  {
+    "gyroscope_id": 769,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:35.655241"
+  },
+  {
+    "gyroscope_id": 770,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:35.697041"
+  },
+  {
+    "gyroscope_id": 771,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:35.738797"
+  },
+  {
+    "gyroscope_id": 772,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:35.780586"
+  },
+  {
+    "gyroscope_id": 773,
+    "trip_id": 3,
+    "x_value": 1.53043,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:35.822432"
+  },
+  {
+    "gyroscope_id": 774,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:35.864209"
+  },
+  {
+    "gyroscope_id": 775,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:35.905965"
+  },
+  {
+    "gyroscope_id": 776,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:35.963114"
+  },
+  {
+    "gyroscope_id": 777,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:36.004924"
+  },
+  {
+    "gyroscope_id": 778,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:36.046773"
+  },
+  {
+    "gyroscope_id": 779,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:36.088532"
+  },
+  {
+    "gyroscope_id": 780,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:36.130293"
+  },
+  {
+    "gyroscope_id": 781,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:36.172058"
+  },
+  {
+    "gyroscope_id": 782,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:36.213879"
+  },
+  {
+    "gyroscope_id": 783,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:36.255642"
+  },
+  {
+    "gyroscope_id": 784,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:36.297470"
+  },
+  {
+    "gyroscope_id": 785,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:36.339280"
+  },
+  {
+    "gyroscope_id": 786,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:36.381038"
+  },
+  {
+    "gyroscope_id": 787,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:36.422791"
+  },
+  {
+    "gyroscope_id": 788,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:36.464563"
+  },
+  {
+    "gyroscope_id": 789,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:36.506300"
+  },
+  {
+    "gyroscope_id": 790,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:36.548075"
+  },
+  {
+    "gyroscope_id": 791,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:36.589968"
+  },
+  {
+    "gyroscope_id": 792,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:36.632339"
+  },
+  {
+    "gyroscope_id": 793,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.53043,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:36.674156"
+  },
+  {
+    "gyroscope_id": 794,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:36.715946"
+  },
+  {
+    "gyroscope_id": 795,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:36.758890"
+  },
+  {
+    "gyroscope_id": 796,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:36.800825"
+  },
+  {
+    "gyroscope_id": 797,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:36.842639"
+  },
+  {
+    "gyroscope_id": 798,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:36.885343"
+  },
+  {
+    "gyroscope_id": 799,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:36.927236"
+  },
+  {
+    "gyroscope_id": 800,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:36.969142"
+  },
+  {
+    "gyroscope_id": 801,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:37.043393"
+  },
+  {
+    "gyroscope_id": 802,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:37.085148"
+  },
+  {
+    "gyroscope_id": 803,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:37.127011"
+  },
+  {
+    "gyroscope_id": 804,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:37.169027"
+  },
+  {
+    "gyroscope_id": 805,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:37.210791"
+  },
+  {
+    "gyroscope_id": 806,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:37.252540"
+  },
+  {
+    "gyroscope_id": 807,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:37.294471"
+  },
+  {
+    "gyroscope_id": 808,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:37.336389"
+  },
+  {
+    "gyroscope_id": 809,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.41739,
+    "timestamp": "2017-01-19 16:19:37.378159"
+  },
+  {
+    "gyroscope_id": 810,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:37.420125"
+  },
+  {
+    "gyroscope_id": 811,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:37.461926"
+  },
+  {
+    "gyroscope_id": 812,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:37.503667"
+  },
+  {
+    "gyroscope_id": 813,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:37.545395"
+  },
+  {
+    "gyroscope_id": 814,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:37.587114"
+  },
+  {
+    "gyroscope_id": 815,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:37.628831"
+  },
+  {
+    "gyroscope_id": 816,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:37.670740"
+  },
+  {
+    "gyroscope_id": 817,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:37.712510"
+  },
+  {
+    "gyroscope_id": 818,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:37.759293"
+  },
+  {
+    "gyroscope_id": 819,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:37.801177"
+  },
+  {
+    "gyroscope_id": 820,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:37.842978"
+  },
+  {
+    "gyroscope_id": 821,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:37.884735"
+  },
+  {
+    "gyroscope_id": 822,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:37.926481"
+  },
+  {
+    "gyroscope_id": 823,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:37.968250"
+  },
+  {
+    "gyroscope_id": 824,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.87826,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:38.010002"
+  },
+  {
+    "gyroscope_id": 825,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:38.051821"
+  },
+  {
+    "gyroscope_id": 826,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.73913,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:38.104710"
+  },
+  {
+    "gyroscope_id": 827,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:38.146464"
+  },
+  {
+    "gyroscope_id": 828,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:38.188215"
+  },
+  {
+    "gyroscope_id": 829,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:38.229965"
+  },
+  {
+    "gyroscope_id": 830,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:38.271707"
+  },
+  {
+    "gyroscope_id": 831,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:38.313476"
+  },
+  {
+    "gyroscope_id": 832,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:38.355265"
+  },
+  {
+    "gyroscope_id": 833,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:38.396998"
+  },
+  {
+    "gyroscope_id": 834,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:38.438735"
+  },
+  {
+    "gyroscope_id": 835,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.41739,
+    "timestamp": "2017-01-19 16:19:38.480482"
+  },
+  {
+    "gyroscope_id": 836,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:38.522221"
+  },
+  {
+    "gyroscope_id": 837,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:38.564260"
+  },
+  {
+    "gyroscope_id": 838,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:38.606022"
+  },
+  {
+    "gyroscope_id": 839,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:38.647750"
+  },
+  {
+    "gyroscope_id": 840,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:38.691371"
+  },
+  {
+    "gyroscope_id": 841,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -1.11304,
+    "timestamp": "2017-01-19 16:19:38.733311"
+  },
+  {
+    "gyroscope_id": 842,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:38.775130"
+  },
+  {
+    "gyroscope_id": 843,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:38.816974"
+  },
+  {
+    "gyroscope_id": 844,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:38.858729"
+  },
+  {
+    "gyroscope_id": 845,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:38.900480"
+  },
+  {
+    "gyroscope_id": 846,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:38.942229"
+  },
+  {
+    "gyroscope_id": 847,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:38.983975"
+  },
+  {
+    "gyroscope_id": 848,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:39.025722"
+  },
+  {
+    "gyroscope_id": 849,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:39.067474"
+  },
+  {
+    "gyroscope_id": 850,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:39.109334"
+  },
+  {
+    "gyroscope_id": 851,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.15652,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:39.167389"
+  },
+  {
+    "gyroscope_id": 852,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:39.209243"
+  },
+  {
+    "gyroscope_id": 853,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.08696,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:39.251032"
+  },
+  {
+    "gyroscope_id": 854,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:39.292881"
+  },
+  {
+    "gyroscope_id": 855,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:39.334770"
+  },
+  {
+    "gyroscope_id": 856,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:39.376532"
+  },
+  {
+    "gyroscope_id": 857,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:39.418281"
+  },
+  {
+    "gyroscope_id": 858,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:39.460024"
+  },
+  {
+    "gyroscope_id": 859,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:39.501773"
+  },
+  {
+    "gyroscope_id": 860,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:39.543525"
+  },
+  {
+    "gyroscope_id": 861,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:39.585268"
+  },
+  {
+    "gyroscope_id": 862,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.22609,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:39.627038"
+  },
+  {
+    "gyroscope_id": 863,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:39.668789"
+  },
+  {
+    "gyroscope_id": 864,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:39.710582"
+  },
+  {
+    "gyroscope_id": 865,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.94783,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:39.757470"
+  },
+  {
+    "gyroscope_id": 866,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:39.799323"
+  },
+  {
+    "gyroscope_id": 867,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:39.841103"
+  },
+  {
+    "gyroscope_id": 868,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:39.882853"
+  },
+  {
+    "gyroscope_id": 869,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:39.924612"
+  },
+  {
+    "gyroscope_id": 870,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:39.966513"
+  },
+  {
+    "gyroscope_id": 871,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:40.008271"
+  },
+  {
+    "gyroscope_id": 872,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:40.050033"
+  },
+  {
+    "gyroscope_id": 873,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:40.091760"
+  },
+  {
+    "gyroscope_id": 874,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:40.133539"
+  },
+  {
+    "gyroscope_id": 875,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.6,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:40.175361"
+  },
+  {
+    "gyroscope_id": 876,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:40.249437"
+  },
+  {
+    "gyroscope_id": 877,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:40.291298"
+  },
+  {
+    "gyroscope_id": 878,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 2.15652,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:40.333156"
+  },
+  {
+    "gyroscope_id": 879,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:40.374913"
+  },
+  {
+    "gyroscope_id": 880,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:40.416693"
+  },
+  {
+    "gyroscope_id": 881,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:40.458443"
+  },
+  {
+    "gyroscope_id": 882,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:40.500186"
+  },
+  {
+    "gyroscope_id": 883,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:40.541929"
+  },
+  {
+    "gyroscope_id": 884,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:40.583853"
+  },
+  {
+    "gyroscope_id": 885,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:40.625685"
+  },
+  {
+    "gyroscope_id": 886,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:40.667492"
+  },
+  {
+    "gyroscope_id": 887,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:40.709252"
+  },
+  {
+    "gyroscope_id": 888,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:40.755900"
+  },
+  {
+    "gyroscope_id": 889,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:40.797738"
+  },
+  {
+    "gyroscope_id": 890,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.08696,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:40.839497"
+  },
+  {
+    "gyroscope_id": 891,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:40.881241"
+  },
+  {
+    "gyroscope_id": 892,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.15652,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:40.922972"
+  },
+  {
+    "gyroscope_id": 893,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.08696,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:40.964716"
+  },
+  {
+    "gyroscope_id": 894,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:41.006469"
+  },
+  {
+    "gyroscope_id": 895,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:41.048222"
+  },
+  {
+    "gyroscope_id": 896,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:41.089964"
+  },
+  {
+    "gyroscope_id": 897,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:41.132240"
+  },
+  {
+    "gyroscope_id": 898,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:41.174299"
+  },
+  {
+    "gyroscope_id": 899,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:41.216072"
+  },
+  {
+    "gyroscope_id": 900,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:41.258098"
+  },
+  {
+    "gyroscope_id": 901,
+    "trip_id": 3,
+    "x_value": 1.53043,
+    "y_value": 2.01739,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:41.310723"
+  },
+  {
+    "gyroscope_id": 902,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.08696,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:41.352493"
+  },
+  {
+    "gyroscope_id": 903,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:41.394211"
+  },
+  {
+    "gyroscope_id": 904,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:41.435938"
+  },
+  {
+    "gyroscope_id": 905,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:41.477692"
+  },
+  {
+    "gyroscope_id": 906,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:41.519430"
+  },
+  {
+    "gyroscope_id": 907,
+    "trip_id": 3,
+    "x_value": 1.53043,
+    "y_value": 1.87826,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:41.561176"
+  },
+  {
+    "gyroscope_id": 908,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -1.04348,
+    "timestamp": "2017-01-19 16:19:41.602938"
+  },
+  {
+    "gyroscope_id": 909,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:41.644695"
+  },
+  {
+    "gyroscope_id": 910,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:41.686447"
+  },
+  {
+    "gyroscope_id": 911,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:41.728204"
+  },
+  {
+    "gyroscope_id": 912,
+    "trip_id": 3,
+    "x_value": 1.6,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:41.769959"
+  },
+  {
+    "gyroscope_id": 913,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:41.811790"
+  },
+  {
+    "gyroscope_id": 914,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.94783,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:41.853517"
+  },
+  {
+    "gyroscope_id": 915,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.15652,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:41.895239"
+  },
+  {
+    "gyroscope_id": 916,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:41.936974"
+  },
+  {
+    "gyroscope_id": 917,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 2.01739,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:41.978725"
+  },
+  {
+    "gyroscope_id": 918,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:42.020487"
+  },
+  {
+    "gyroscope_id": 919,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:42.062226"
+  },
+  {
+    "gyroscope_id": 920,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.6,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:42.103967"
+  },
+  {
+    "gyroscope_id": 921,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:42.145696"
+  },
+  {
+    "gyroscope_id": 922,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:42.187454"
+  },
+  {
+    "gyroscope_id": 923,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:42.229210"
+  },
+  {
+    "gyroscope_id": 924,
+    "trip_id": 3,
+    "x_value": 1.6,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:42.270958"
+  },
+  {
+    "gyroscope_id": 925,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:42.313039"
+  },
+  {
+    "gyroscope_id": 926,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:42.368075"
+  },
+  {
+    "gyroscope_id": 927,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:42.409831"
+  },
+  {
+    "gyroscope_id": 928,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.15652,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:42.451581"
+  },
+  {
+    "gyroscope_id": 929,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:42.493332"
+  },
+  {
+    "gyroscope_id": 930,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:42.535078"
+  },
+  {
+    "gyroscope_id": 931,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:42.576821"
+  },
+  {
+    "gyroscope_id": 932,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.73913,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:42.618579"
+  },
+  {
+    "gyroscope_id": 933,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:42.660335"
+  },
+  {
+    "gyroscope_id": 934,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:42.702133"
+  },
+  {
+    "gyroscope_id": 935,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:42.743894"
+  },
+  {
+    "gyroscope_id": 936,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:42.785665"
+  },
+  {
+    "gyroscope_id": 937,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:42.827423"
+  },
+  {
+    "gyroscope_id": 938,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:42.869170"
+  },
+  {
+    "gyroscope_id": 939,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:42.910905"
+  },
+  {
+    "gyroscope_id": 940,
+    "trip_id": 3,
+    "x_value": 0.97391,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:42.952644"
+  },
+  {
+    "gyroscope_id": 941,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:42.994377"
+  },
+  {
+    "gyroscope_id": 942,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.036251"
+  },
+  {
+    "gyroscope_id": 943,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:43.078000"
+  },
+  {
+    "gyroscope_id": 944,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:43.119743"
+  },
+  {
+    "gyroscope_id": 945,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:43.161480"
+  },
+  {
+    "gyroscope_id": 946,
+    "trip_id": 3,
+    "x_value": 0.90435,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:43.203250"
+  },
+  {
+    "gyroscope_id": 947,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:43.245026"
+  },
+  {
+    "gyroscope_id": 948,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:43.286895"
+  },
+  {
+    "gyroscope_id": 949,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:43.328750"
+  },
+  {
+    "gyroscope_id": 950,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.370660"
+  },
+  {
+    "gyroscope_id": 951,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.426506"
+  },
+  {
+    "gyroscope_id": 952,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.468392"
+  },
+  {
+    "gyroscope_id": 953,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:43.510237"
+  },
+  {
+    "gyroscope_id": 954,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:43.551985"
+  },
+  {
+    "gyroscope_id": 955,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:43.593726"
+  },
+  {
+    "gyroscope_id": 956,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.635500"
+  },
+  {
+    "gyroscope_id": 957,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:43.677351"
+  },
+  {
+    "gyroscope_id": 958,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.719097"
+  },
+  {
+    "gyroscope_id": 959,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:43.768768"
+  },
+  {
+    "gyroscope_id": 960,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.810616"
+  },
+  {
+    "gyroscope_id": 961,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.01739,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.852393"
+  },
+  {
+    "gyroscope_id": 962,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.894139"
+  },
+  {
+    "gyroscope_id": 963,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:43.936058"
+  },
+  {
+    "gyroscope_id": 964,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:43.977794"
+  },
+  {
+    "gyroscope_id": 965,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.15652,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:44.019530"
+  },
+  {
+    "gyroscope_id": 966,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.66957,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:44.061317"
+  },
+  {
+    "gyroscope_id": 967,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.08696,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:44.103055"
+  },
+  {
+    "gyroscope_id": 968,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:44.144803"
+  },
+  {
+    "gyroscope_id": 969,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.6,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:44.186625"
+  },
+  {
+    "gyroscope_id": 970,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:44.228380"
+  },
+  {
+    "gyroscope_id": 971,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:44.270142"
+  },
+  {
+    "gyroscope_id": 972,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:44.311910"
+  },
+  {
+    "gyroscope_id": 973,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:44.353795"
+  },
+  {
+    "gyroscope_id": 974,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:44.395613"
+  },
+  {
+    "gyroscope_id": 975,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.8087,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:44.437396"
+  },
+  {
+    "gyroscope_id": 976,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.8087,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:44.488597"
+  },
+  {
+    "gyroscope_id": 977,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:44.530352"
+  },
+  {
+    "gyroscope_id": 978,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.15652,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:44.572122"
+  },
+  {
+    "gyroscope_id": 979,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:44.613930"
+  },
+  {
+    "gyroscope_id": 980,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:44.655713"
+  },
+  {
+    "gyroscope_id": 981,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.15652,
+    "z_value": -0.90435,
+    "timestamp": "2017-01-19 16:19:44.697479"
+  },
+  {
+    "gyroscope_id": 982,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 2.15652,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:44.739211"
+  },
+  {
+    "gyroscope_id": 983,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:44.781165"
+  },
+  {
+    "gyroscope_id": 984,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:44.822992"
+  },
+  {
+    "gyroscope_id": 985,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 2.08696,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:44.864735"
+  },
+  {
+    "gyroscope_id": 986,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.94783,
+    "z_value": -0.97391,
+    "timestamp": "2017-01-19 16:19:44.906488"
+  },
+  {
+    "gyroscope_id": 987,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.94783,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:44.948239"
+  },
+  {
+    "gyroscope_id": 988,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 2.15652,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:44.989993"
+  },
+  {
+    "gyroscope_id": 989,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 2.01739,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:45.031741"
+  },
+  {
+    "gyroscope_id": 990,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:45.073499"
+  },
+  {
+    "gyroscope_id": 991,
+    "trip_id": 3,
+    "x_value": 1.32174,
+    "y_value": 1.94783,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:45.115261"
+  },
+  {
+    "gyroscope_id": 992,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.08696,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:45.157025"
+  },
+  {
+    "gyroscope_id": 993,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.73913,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:45.198797"
+  },
+  {
+    "gyroscope_id": 994,
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.94783,
+    "z_value": -0.55652,
+    "timestamp": "2017-01-19 16:19:45.240540"
+  },
+  {
+    "gyroscope_id": 995,
+    "trip_id": 3,
+    "x_value": 1.53043,
+    "y_value": 1.73913,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:45.282290"
+  },
+  {
+    "gyroscope_id": 996,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.87826,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:45.324052"
+  },
+  {
+    "gyroscope_id": 997,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.01739,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:45.365830"
+  },
+  {
+    "gyroscope_id": 998,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.8087,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:45.407592"
+  },
+  {
+    "gyroscope_id": 999,
+    "trip_id": 3,
+    "x_value": 1.04348,
+    "y_value": 1.87826,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:45.449344"
+  },
+  {
+    "gyroscope_id": 1000,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 2.01739,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:45.491167"
+  },
+  {
+    "gyroscope_id": 1001,
+    "trip_id": 3,
+    "x_value": 1.3913,
+    "y_value": 1.66957,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:45.542158"
+  },
+  {
+    "gyroscope_id": 1002,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.66957,
+    "z_value": -0.76522,
+    "timestamp": "2017-01-19 16:19:45.583923"
+  },
+  {
+    "gyroscope_id": 1003,
+    "trip_id": 3,
+    "x_value": 1.11304,
+    "y_value": 1.94783,
+    "z_value": -0.62609,
+    "timestamp": "2017-01-19 16:19:45.625675"
+  },
+  {
+    "gyroscope_id": 1004,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.48696,
+    "timestamp": "2017-01-19 16:19:45.667426"
+  },
+  {
+    "gyroscope_id": 1005,
+    "trip_id": 3,
+    "x_value": 1.18261,
+    "y_value": 1.87826,
+    "z_value": -0.83478,
+    "timestamp": "2017-01-19 16:19:45.709184"
+  },
+  {
+    "gyroscope_id": 1006,
+    "trip_id": 3,
+    "x_value": 1.46087,
+    "y_value": 2.08696,
+    "z_value": -0.69565,
+    "timestamp": "2017-01-19 16:19:45.750944"
+  },
+  {
+    "gyroscope_id": "6577603256623562752",
+    "trip_id": 3,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:27:02.340"
+  },
+  {
+    "gyroscope_id": "6577603522173337600",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:28:05.652"
+  },
+  {
+    "gyroscope_id": "6577603739924824064",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:28:57.567"
+  },
+  {
+    "gyroscope_id": "6577603802986184704",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:29:12.602"
+  },
+  {
+    "gyroscope_id": "6577604027637301248",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:30:06.165"
+  },
+  {
+    "gyroscope_id": "6577606807894622208",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:41:09.033"
+  },
+  {
+    "gyroscope_id": "6577608527840280576",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:47:59.102"
+  },
+  {
+    "gyroscope_id": "6577608732333572096",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:48:47.853"
+  },
+  {
+    "gyroscope_id": "6577609554471682048",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:52:03.864"
+  },
+  {
+    "gyroscope_id": "6577609941022932992",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:53:36.029"
+  },
+  {
+    "gyroscope_id": "6577611213969031168",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 17:58:39.535"
+  },
+  {
+    "gyroscope_id": "6577612531479609344",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 18:03:53.649"
+  },
+  {
+    "gyroscope_id": "6577614017592819712",
+    "trip_id": 4,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 18:09:47.957"
+  },
+  {
+    "gyroscope_id": "6577614687486083072",
+    "trip_id": 100,
+    "x_value": 1.25217,
+    "y_value": 1.3913,
+    "z_value": -0.90435,
+    "timestamp": "2019-11-09 18:12:27.670"
+  }
+]
